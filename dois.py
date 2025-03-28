@@ -1,1 +1,1 @@
-
+#2) Inclusão de filtro para eliminar caracteres não desejados - Acrescente ao programa construído  uma seção que receba como entrada uma lista de caracteres indesejados e, com eles, inclua no programa um filtro que remova da sequência originalmente encontrada de caracteres ASCII todas as ocorrências dos c aracteres que constam dessa lista. Em particular, use esse programa para fazer a eliminação de brancos, espaçadores, tabulações, marcas de final de linha, final de arquivo, formatação, et
