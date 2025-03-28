@@ -1,0 +1,1 @@
+#4 - Enriqueça o programa anterior fazendo-o extrair, para cada linha processada, o conjunto de palavras encontrado e tabelando essas palavras com a inormação da linha em que ocorreram. Ao final, ordene alfabeticamente e imprima a tabela de referências cruzadas assim constituída, indicando para cada palavra o conjunto de linhas em que ela ocorreu no texto processado.
